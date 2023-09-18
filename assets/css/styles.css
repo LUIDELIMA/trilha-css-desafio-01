@@ -1,0 +1,13 @@
+@import url('reset.css');
+
+body {
+    background-color: black;   
+}
+
+h2{
+    font-size: 2rem;
+    color: #33a8db;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-bottom: 24px;
+}
